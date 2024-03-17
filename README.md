@@ -1,5 +1,4 @@
-![Full Stack Web Developer](https://camo.githubusercontent.com/1f034ebfc52e5fdcc097e7b3c6c9100e1fd606f5a99af8ea35f1d3a936bbfdfa/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
-### Hi there 👋, i'am Md. Ismail Hosen
+### Hi there 👋, I'am Md. Ismail Hosen
 I'm a skilled Web developer with exprience in JavaScript and expertise in frameworks like React.js, Node.js. I'm a quick learner and  collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's Wark together to bring your ideas to life!
 
 Skills: REACT / JS / HTML / CSS
