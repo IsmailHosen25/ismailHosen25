@@ -1,4 +1,4 @@
-# 💫 Hey there, I’m Md. Ismail Hosen! 👋
+# 💫 Hello! I’m Md. Ismail Hosen! 👋
 As a Full-Stack Developer, I have a strong background in **database administration, system architecture**, and **backend development** in addition to a basic understanding of frontend technologies.
 **Building scalable, high-performance apps** and investigating **AI-driven software systems** are my main areas of interest while I pursue a BSc in Computer Science and Engineering at Independent University in Bangladesh.
 
