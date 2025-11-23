@@ -17,6 +17,8 @@ I’m passionate about integrating AI models and automation into backend systems
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ismail-hosen-code/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismailhosen1006@gmail.com) 
 [![](https://visitcount.itsvg.in/api?id=ismailHosen25&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=codepen&logoColor=white)](https://mdismail-hosen.web.app/)
+
 
 
 
