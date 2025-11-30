@@ -14,6 +14,13 @@ I’m passionate about integrating AI models and automation into backend systems
 ![](https://github-readme-stats.vercel.app/api?username=ismailHosen25&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailHosen25&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IsmailHosen25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 💻 Languages I Use
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsmailHosen25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ismail-hosen-code/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ismailhosen1006@gmail.com) 
 [![](https://visitcount.itsvg.in/api?id=ismailHosen25&icon=0&color=0)](https://visitcount.itsvg.in)
